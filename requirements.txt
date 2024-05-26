@@ -1,6 +1,11 @@
 # local package
 -e .
 
+tensorflow
+matplotlib
+numpy
+opencv
+
 # external requirements
 click
 Sphinx
